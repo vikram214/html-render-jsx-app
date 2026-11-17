@@ -1,1 +1,1 @@
-# html-render-jsx-app
+# react-html-render-jsx-app
